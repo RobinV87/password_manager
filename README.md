@@ -10,8 +10,12 @@ A hashed key is generated as a seperate file which will be saved as "secret.key"
 This key is used to encrypt the password that is being asked for.
 To save the encrypted password it is saved in the file passwords.json.
 
-The loop asks you 3 options:
+The main loop asks you 3 options:
 
 - add
 - retrieve
 - exit
+
+To Do:
+* More functionality
+* Better security
